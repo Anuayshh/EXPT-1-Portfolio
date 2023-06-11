@@ -163,7 +163,12 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 
 ```
 ## OUTPUT:
-![Web capture_9-6-2023_185816_](https://github.com/Akalyaalex/portfolio_exp_1/assets/114275126/0071ab15-3ee8-4784-a8b4-38838c4990ae)
+![image](https://github.com/Anuayshh/EXPT-1-Portfolio/assets/127651217/a2071d8c-8419-4432-b169-74f7cc4233f9)
+![image](https://github.com/Anuayshh/EXPT-1-Portfolio/assets/127651217/44f96194-ce65-4bad-b9d7-7b5b44b690c3)
+![image](https://github.com/Anuayshh/EXPT-1-Portfolio/assets/127651217/0fac7bca-8824-4bf3-a0d4-76692fd3df78)
+![image](https://github.com/Anuayshh/EXPT-1-Portfolio/assets/127651217/1f1771b9-f705-4a63-a61c-4dd3f8c4c93d)
+
+
 
 ## RESULT:
 
